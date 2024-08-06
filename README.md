@@ -1,2 +1,2 @@
 # Discuz-
-Discuz!代码教程
+Discuz!解析代码
